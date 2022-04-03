@@ -1,7 +1,6 @@
 import requests
 import json
 
-
 # MAIN
 
 response_API_best = requests.get("https://raider.io/api/v1/characters/profile?region=us&realm=Zul'jin&name=Konnenh&fields=mythic_plus_best_runs%3Aall")
