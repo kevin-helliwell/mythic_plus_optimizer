@@ -165,6 +165,10 @@ print(get_info_worst_total())
 
 
 
+
+
+
+
 # def get_info_alt():
 #     for i in range(0,10):
 #         name = parse_json_alt["mythic_plus_alternate_runs"][i]["short_name"]
