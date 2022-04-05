@@ -116,6 +116,8 @@ print(get_info_worst_total())
 
 # NOTE: FIND A WAY TO SEPARATE INTO TYRANNICAL AND FORTIFIED SPECIFIC LISTS
 
+
+
 # for i in range(len(get_info_worst_total())):
 #     print(get_info_worst_total()[i].get("main_affix"))
 #     print(get_info_worst_total()[i].get("score"))
